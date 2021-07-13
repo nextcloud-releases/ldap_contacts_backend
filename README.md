@@ -1,0 +1,1 @@
+Release of ldap_contacts_backend
